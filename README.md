@@ -1,2 +1,2 @@
 # crafty-2
-website with picture elemet, calc, srcset
+website with picture element, calc, srcset
